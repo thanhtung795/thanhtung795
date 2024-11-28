@@ -3,12 +3,6 @@
 
 ---
 
-### 💻 About Me  
-- 🔭 I’m currently working as a Fullstack Developer  
-- 🌱 I’m always learning and improving my skills  
-
----
-
 ### 🚀 Skills  
 
 #### Programming Languages & Backend  
