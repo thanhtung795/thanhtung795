@@ -21,6 +21,7 @@
 - ![MyBatis](https://img.shields.io/badge/MyBatis-1D6B98?style=for-the-badge&logo=mybatis&logoColor=white)  
 - ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)  
 </div>
+---
 #### Front-End
 <div style="display: flex; gap: 10px;">
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -28,6 +29,7 @@
 - ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
+---
 #### Databases  
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
