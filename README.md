@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Web Developer  👋 My name: Võ Thanh Tùng
 
 <!--
 **thanhtung795/thanhtung795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
