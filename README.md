@@ -6,7 +6,6 @@
 ### 💻 About Me  
 - 🔭 I’m currently working as a Fullstack Developer  
 - 🌱 I’m always learning and improving my skills  
-- 📫 How to reach me: **your_email@example.com**
 
 ---
 
@@ -40,8 +39,3 @@
 - ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
-
-### ✨ Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- [GitHub](https://github.com/your-github/)  
-- [Portfolio](https://your-portfolio-link.com/)  
